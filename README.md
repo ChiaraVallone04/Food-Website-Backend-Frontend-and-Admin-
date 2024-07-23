@@ -14,5 +14,6 @@ npm run dev
 Admin:   http://localhost:5173/
 npm run dev
 
+Payment test: https://docs.stripe.com/testing#international-cards
 
 
